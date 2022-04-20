@@ -20,7 +20,7 @@ This section will explain an additional instructions for this exam. You must fol
 You must develop your front-end web app in `Accelist.Airport.FE`.
 
 ### Web API
-You must develop your web API app in `Accelist.Airport.BE` folder.
+You must develop your web API app in `Accelist.Airport.BE.WebApp` folder.
 
 ### Entities
 You must design your EF Core entity codes in `Accelist.Airport.BE.Sql` project.
